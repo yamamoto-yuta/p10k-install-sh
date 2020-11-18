@@ -15,8 +15,8 @@ $ bash ./p10k-install.sh
 
 -- (Finished install) --
 
-$ exit <- exit from zsh
-$ exit <- exit from bash
+$ exit   # <- exit from zsh
+$ exit   # <- exit from bash
 ```
 
 # Usage
