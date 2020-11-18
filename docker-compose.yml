@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  latest:
+    image: ubuntu:20.04
+    container_name: powerlevel10k-env
+    environment:
+      - HOME=/home
+      - TERM=$TERM
+      # - COLORTERM=$COLORTERM
+    volumes:
+      - ./:/home/
+    tty: true
+    working_dir: /home

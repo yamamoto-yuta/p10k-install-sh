@@ -1,0 +1,6 @@
+*
+*/
+!.gitignore
+!docker-compose.yml
+!p10k-install.sh
+!README.md
