@@ -1,5 +1,5 @@
 # p10k-install-sh
-Install powerlevel10k.
+Install powerlevel10k
 
 # Installation
 
